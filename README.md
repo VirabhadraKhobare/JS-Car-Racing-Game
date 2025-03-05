@@ -2,6 +2,9 @@
 
 ![JavaScript Racing DOM Game](javascript-racing.gif)
 
+# Plat Game
+Start(js-car-racing-game-viru)
+
 ### Description
 
 **JavaScript Racing** is an adrenaline-packed racing game where players maneuver their car to avoid obstacles and earn points. Developed with HTML, CSS, and JavaScript, this game delivers a thrilling experience coupled with captivating visuals.
