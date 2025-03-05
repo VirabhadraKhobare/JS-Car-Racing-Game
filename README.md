@@ -2,8 +2,7 @@
 
 ![JavaScript Racing DOM Game](javascript-racing.gif)
 
-# Plat Game
-Start(js-car-racing-game-viru)
+### Play Game: [Live Website](https://js-car-racing-game-viru.netlify.app/)
 
 ### Description
 
