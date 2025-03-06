@@ -2,7 +2,7 @@
 
 ![JavaScript Racing DOM Game](javascript-racing.gif)
 
-### Play Game: [Live Website](https://js-car-racing-game-viru.netlify.app/)
+### Play Game: [START](https://js-car-racing-game-viru.netlify.app/)
 
 ### Description
 
